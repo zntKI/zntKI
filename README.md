@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Kaloyan!
 
+I am an aspiring Game Engineer, currently studying at CMGT at Saxion.
 <!--
 **zntKI/zntKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
