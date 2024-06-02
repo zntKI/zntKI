@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kaloyan!
 
-#### I am an aspiring Game Engineer, currently studying at CMGT at Saxion. 🕹️
+#### I am a Game Engineer, currently studying at CMGT at Saxion. 🕹️
 <p>
   I have always loved video games and programming, so when the time came and I graduated from highschool, I made the only logical decision - to enroll in the CMGT program. 😃
 </p>
