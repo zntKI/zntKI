@@ -10,8 +10,8 @@ I am highly interested in gameplay and graphics programming and in finding ways 
 * #️⃣ C#
 * 🔧 Unity
 * 💻 HTML, CSS
-* ☕ Java
 * 🌐 ASP.NET Core MVC, SQL
+* ☕ Java
 * 💧 Elixir, Erlang
 
 <br/>
