@@ -12,7 +12,8 @@ I am highly interested in gameplay and graphics programming and in finding ways 
 ## Skills and Experience
 * #️⃣ C#
 * 🔧 Unity
-* 💻 HTML, CSS
+* 💾 C++
+* 💻 HTML, CSS (SCSS)
 * 🌐 ASP.NET Core MVC, SQL
 * ☕ Java
 * 💧 Elixir, Erlang
